@@ -33,10 +33,9 @@ The application is a Visual Basic .NET-based inventory management system designe
 This project was build especially for a internal company use and it will not work in any other application since it is based on dedicated company software.
 
 ## Screenshots
-![MAG1](https://github.com/swietlikm/Warehouse_management_system/assets/121583766/6bb58f1c-ffc5-4b83-9963-73abb0e09fe6)
-![MAG2](https://github.com/swietlikm/Warehouse_management_system/assets/121583766/8f4baf8e-893e-472a-bf61-ba1d54fcc1fe)
-![MAG3](https://github.com/swietlikm/Warehouse_management_system/assets/121583766/d60b3e5b-d4b9-4ca7-ad8b-235d9b958273)
-![MAG4](https://github.com/swietlikm/Warehouse_management_system/assets/121583766/a136f63a-f3c2-4758-9dab-43675fb8b9a7)
-![MAG5](https://github.com/swietlikm/Warehouse_management_system/assets/121583766/cf5c26ee-7d95-4a63-9a5d-c52273590a3e)
-![MAG6](https://github.com/swietlikm/Warehouse_management_system/assets/121583766/cf2af5a9-8110-4961-8804-73bf9ccd5dfc)
-
+![MAG1](https://github.com/swietlikm/Warehouse_management_system/assets/121583766/77b01614-ff29-464f-b4f5-9f42ca658f83)
+![MAG2](https://github.com/swietlikm/Warehouse_management_system/assets/121583766/f58d839c-a8f5-49e0-98bf-dec9b97e1546)
+![MAG3](https://github.com/swietlikm/Warehouse_management_system/assets/121583766/7552d1f6-48f4-4f1c-a825-5c122c94e0cb)
+![MAG4](https://github.com/swietlikm/Warehouse_management_system/assets/121583766/1ecacec8-9ca5-4f21-b3d9-dd9535635348)
+![MAG5](https://github.com/swietlikm/Warehouse_management_system/assets/121583766/fc2a243d-b48e-41c6-80ac-c6974f9a6005)
+![MAG6](https://github.com/swietlikm/Warehouse_management_system/assets/121583766/8b5b7cab-ed6e-40f1-a602-b3d6a928590f)
